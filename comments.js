@@ -1,4 +1,4 @@
-// express web server mwe
+// create web server
 
 // import express
 const express = require('express');
